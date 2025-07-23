@@ -19,4 +19,4 @@
 - `portifolio-ciencia-de-dados` — organização de projetos por tema / projects organized by topic
 - `dados-educacao-sp` — (exemplo futuro) análise de dados públicos da educação paulista / (future example) public education data analysis from São Paulo
 
-📫 Contato / Contact: [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) | [Email](mailto:SEUEMAIL@exemplo.com)
+📫 Contato / Contact: [LinkedIn](https://www.linkedin.com/in/engraphaelmachado) | [Email](mailto:raphaelmachado.saocarlos@gmail.com)
